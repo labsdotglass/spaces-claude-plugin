@@ -1,0 +1,14 @@
+{
+  "name": "joinspaces",
+  "displayName": "Spaces",
+  "version": "0.2.9",
+  "description": "Shared lists, notes, a cheat sheet, and people for groups. Connects Claude to the Spaces MCP server and teaches it how to use spaces well.",
+  "author": {
+    "name": "Glass Labs Spaces",
+    "url": "https://joinspaces.ai"
+  },
+  "homepage": "https://joinspaces.ai",
+  "privacyPolicyUrl": "https://joinspaces.ai/privacy",
+  "repository": "https://github.com/labsdotglass/spaces-claude-plugin",
+  "license": "MIT"
+}
